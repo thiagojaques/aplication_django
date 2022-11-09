@@ -1,0 +1,1 @@
+web: gunicorn appdjango.wsgi --log-file -
